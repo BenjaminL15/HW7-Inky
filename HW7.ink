@@ -158,7 +158,7 @@ Choose your Pokemon!
 Ben forgot that grass is resistant against a Pidove. He clearly does not know his typings. 
     -> option_battle
 
-== aftermath == 
+==aftermath== 
 With the strong damage move, Ben was able to one hit KO the Pidove. The trainer is in shock and runs away yelling at Ben that he will beat him again. It was a start of a new rivalry. Ben leaves the building and ventures off on his next journey as a Pokemon Trainer in the Unova region. 
     -> END
     
